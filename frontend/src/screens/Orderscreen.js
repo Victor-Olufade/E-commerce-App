@@ -77,7 +77,7 @@ const Orderscreen = () => {
               </p>
               {orderDetails.isDelivered ? (
                 <Message variant="success">
-                  Delivered at {orderDetails.deliveredAt}
+                  Delivered at time {orderDetails.deliveredAt}
                 </Message>
               ) : (
                 <Message variant="danger">Not Delivered</Message>
