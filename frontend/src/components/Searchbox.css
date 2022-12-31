@@ -1,0 +1,11 @@
+.textInput{
+    margin-left: 80px;
+    margin-top: 2px;
+    width: 200px;
+    height: 35px;
+    position: absolute;
+}
+
+.button{
+    margin-top: 2px
+}
